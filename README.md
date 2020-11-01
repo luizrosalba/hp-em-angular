@@ -32,5 +32,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
  - ng new hp-em-angular      
  - npm i 
  - npm install @schematics/angular --save-dev
+ - npm install json-server
+ - json-server --watch db.json
  - 
 
